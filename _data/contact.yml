@@ -13,6 +13,10 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+- type: bilibili
+  icon: "fa-brands fa-bilibili"
+  url: "https://space.bilibili.com/421805518"
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
